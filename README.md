@@ -8,7 +8,7 @@ Meeting audio/video ──► ffmpeg ──► Whisper large-v3 ──► Transc
 ```
 
 ## The Problem
-As CTO of the **AU Investment Club**, I saw valuable financial analysis and strategy discussions disappear the moment meetings ended. Absent members couldn't catch up, and the marketing team had nothing to build content from. Paid tools like Otter.ai weren't an option.
+As the CDO of the **AU Investment Club**, I saw valuable financial analysis and strategy discussions disappear the moment meetings ended. Absent members couldn't catch up, and the marketing team had nothing to build content from. Paid tools like Otter.ai weren't an option.
 
 ## What I Built
 An end-to-end AI pipeline that runs entirely in **Google Colab**, with no paid APIs and no local hardware:
